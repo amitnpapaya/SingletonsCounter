@@ -1092,6 +1092,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8300000, guid: ab78c08b4305e4ce69991e2de48d2443, type: 3}
     - target: {fileID: 8610914832473381071, guid: 816e58da1b9f84b909e3c4ebfd3b0381, type: 3}
+      propertyPath: _counterUpKey
+      value: 119
+      objectReference: {fileID: 0}
+    - target: {fileID: 8610914832473381071, guid: 816e58da1b9f84b909e3c4ebfd3b0381, type: 3}
       propertyPath: _soundManager
       value: 
       objectReference: {fileID: 718683597}
@@ -1099,6 +1103,10 @@ PrefabInstance:
       propertyPath: _downAudioClip
       value: 
       objectReference: {fileID: 8300000, guid: 0fca95a050b4647c2a12a7de8392cfaa, type: 3}
+    - target: {fileID: 8610914832473381071, guid: 816e58da1b9f84b909e3c4ebfd3b0381, type: 3}
+      propertyPath: _counterDownKey
+      value: 113
+      objectReference: {fileID: 0}
     - target: {fileID: 8610914832473381071, guid: 816e58da1b9f84b909e3c4ebfd3b0381, type: 3}
       propertyPath: _initialCounterCount
       value: 49
